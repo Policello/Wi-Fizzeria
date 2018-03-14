@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\9ea66834ecce5ab4d00b3a5bb464eb9a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4d31464c2a09a843f955d8c54fe2a5ce\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\6ee58b64d377e709b755b9d61b3db2a4\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\8740a2bf4b8a91c214edc1eafe096a52\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\b6c97a0dbe83caa24b7b3583e1b0bf2e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\5d10453397c314c3b9387f003a6e55c5\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\7bafaf451858dfb61a374d821e8ce7de\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\57ba960a112ebf8a32758f522eda2dd7\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\e1ed7b144fd0d4d9abb6d68b70db14db\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\cb63fc34b60fbce5823e753f02ad8254\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:8:5-32:19
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\9ea66834ecce5ab4d00b3a5bb464eb9a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\9ea66834ecce5ab4d00b3a5bb464eb9a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4d31464c2a09a843f955d8c54fe2a5ce\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4d31464c2a09a843f955d8c54fe2a5ce\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\6ee58b64d377e709b755b9d61b3db2a4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\6ee58b64d377e709b755b9d61b3db2a4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\8740a2bf4b8a91c214edc1eafe096a52\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\8740a2bf4b8a91c214edc1eafe096a52\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\b6c97a0dbe83caa24b7b3583e1b0bf2e\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\b6c97a0dbe83caa24b7b3583e1b0bf2e\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\5d10453397c314c3b9387f003a6e55c5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\5d10453397c314c3b9387f003a6e55c5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\7bafaf451858dfb61a374d821e8ce7de\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\7bafaf451858dfb61a374d821e8ce7de\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\57ba960a112ebf8a32758f522eda2dd7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\57ba960a112ebf8a32758f522eda2dd7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\e1ed7b144fd0d4d9abb6d68b70db14db\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\e1ed7b144fd0d4d9abb6d68b70db14db\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\cb63fc34b60fbce5823e753f02ad8254\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\cb63fc34b60fbce5823e753f02ad8254\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:11:9-36
+	android:roundIcon
+		ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.mgiorda.mypizzeria2.ChoixTable
+ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:17:19-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.mgiorda.mypizzeria2.MainActivity
+ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:24:19-47
+activity#com.example.mgiorda.mypizzeria2.CommandActivity
+ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:31:9-62
+	android:name
+		ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml:31:19-50
+uses-sdk
+INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\9ea66834ecce5ab4d00b3a5bb464eb9a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\9ea66834ecce5ab4d00b3a5bb464eb9a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4d31464c2a09a843f955d8c54fe2a5ce\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4d31464c2a09a843f955d8c54fe2a5ce\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\6ee58b64d377e709b755b9d61b3db2a4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\6ee58b64d377e709b755b9d61b3db2a4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\8740a2bf4b8a91c214edc1eafe096a52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\8740a2bf4b8a91c214edc1eafe096a52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\b6c97a0dbe83caa24b7b3583e1b0bf2e\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\b6c97a0dbe83caa24b7b3583e1b0bf2e\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\5d10453397c314c3b9387f003a6e55c5\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\5d10453397c314c3b9387f003a6e55c5\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\7bafaf451858dfb61a374d821e8ce7de\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\7bafaf451858dfb61a374d821e8ce7de\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\57ba960a112ebf8a32758f522eda2dd7\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\57ba960a112ebf8a32758f522eda2dd7\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\e1ed7b144fd0d4d9abb6d68b70db14db\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\e1ed7b144fd0d4d9abb6d68b70db14db\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\cb63fc34b60fbce5823e753f02ad8254\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\cb63fc34b60fbce5823e753f02ad8254\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Martin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\9ea66834ecce5ab4d00b3a5bb464eb9a\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Martin\Documents\Android\MyPizzeria2\MyPizzeria2\app\src\main\AndroidManifest.xml

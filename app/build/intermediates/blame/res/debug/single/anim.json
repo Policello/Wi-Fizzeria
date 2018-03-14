@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "Z:\\Documents\\Android\\MyPizzeria2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\mgiorda\\.android\\build-cache\\5b53b2382fdc92813e5bcad84449bebc0094c89b\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "Z:\\Documents\\Android\\MyPizzeria2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\mgiorda\\.android\\build-cache\\5b53b2382fdc92813e5bcad84449bebc0094c89b\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "Z:\\Documents\\Android\\MyPizzeria2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\mgiorda\\.android\\build-cache\\5b53b2382fdc92813e5bcad84449bebc0094c89b\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "Z:\\Documents\\Android\\MyPizzeria2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\mgiorda\\.android\\build-cache\\5b53b2382fdc92813e5bcad84449bebc0094c89b\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "Z:\\Documents\\Android\\MyPizzeria2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\mgiorda\\.android\\build-cache\\5b53b2382fdc92813e5bcad84449bebc0094c89b\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "Z:\\Documents\\Android\\MyPizzeria2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\mgiorda\\.android\\build-cache\\5b53b2382fdc92813e5bcad84449bebc0094c89b\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "Z:\\Documents\\Android\\MyPizzeria2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\mgiorda\\.android\\build-cache\\5b53b2382fdc92813e5bcad84449bebc0094c89b\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "Z:\\Documents\\Android\\MyPizzeria2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\mgiorda\\.android\\build-cache\\5b53b2382fdc92813e5bcad84449bebc0094c89b\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "Z:\\Documents\\Android\\MyPizzeria2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\mgiorda\\.android\\build-cache\\5b53b2382fdc92813e5bcad84449bebc0094c89b\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "Z:\\Documents\\Android\\MyPizzeria2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\mgiorda\\.android\\build-cache\\5b53b2382fdc92813e5bcad84449bebc0094c89b\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    }
+]

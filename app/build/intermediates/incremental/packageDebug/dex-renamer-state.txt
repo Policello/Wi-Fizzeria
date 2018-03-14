@@ -1,0 +1,7 @@
+#Mon Feb 19 16:42:28 CET 2018
+base.0=Z\:\\Documents\\Android\\MyPizzeria2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4ba6b688b28569e218ba7298810ad4e0e73f0120
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=Z\:\\Documents\\Android\\MyPizzeria2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_678ec7e92957e1cedac37a9fe8c9caf342da68f7\\classes.dex
+base.1=Z\:\\Documents\\Android\\MyPizzeria2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_678ec7e92957e1cedac37a9fe8c9caf342da68f7
+file.0=Z\:\\Documents\\Android\\MyPizzeria2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4ba6b688b28569e218ba7298810ad4e0e73f0120\\classes.dex
